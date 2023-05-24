@@ -16,5 +16,7 @@ footer{background-image: url(https://media.istockphoto.com/id/512624640/pt/vetor
     color: gold;}
 
 .imgAjustada{
-    width: auto;
-    height: 500px;}
+    box-sizing: border-box;
+    width: 800px;
+    border: solid #e6e934 8px;
+    padding: 3px;}
