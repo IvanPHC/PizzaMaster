@@ -1,6 +1,7 @@
 body {
     background-image: url("https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/02/09/16443936440735.jpg");
-    color: gold;}
+    color: gold;
+    overflow-x: hidden;}
 
 h1{background-image: url(https://media.istockphoto.com/id/512624640/pt/vetorial/pizza-sem-costura-padr%C3%A3o-de-fundo-escuro.jpg?s=612x612&w=0&k=20&c=rXGhI5jmfiGWpT7QygV7vTg8JHXdH1geuyfB6UCSskA=);}
 
