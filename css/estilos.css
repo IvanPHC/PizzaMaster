@@ -1,39 +1,60 @@
 body {
-    background-image: url("https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/02/09/16443936440735.jpg");
-    color: gold;}
+    background-image: url("https://fondosmil.com/fondo/65806.jpg");
+    color: rgb(253, 253, 2);
+}
 
-h1{background-image: url(https://media.istockphoto.com/id/512624640/pt/vetorial/pizza-sem-costura-padr%C3%A3o-de-fundo-escuro.jpg?s=612x612&w=0&k=20&c=rXGhI5jmfiGWpT7QygV7vTg8JHXdH1geuyfB6UCSskA=);}
+h1{
+    background-image: url(https://media.istockphoto.com/id/512624640/pt/vetorial/pizza-sem-costura-padr%C3%A3o-de-fundo-escuro.jpg?s=612x612&w=0&k=20&c=rXGhI5jmfiGWpT7QygV7vTg8JHXdH1geuyfB6UCSskA=);
+}
 
-nav {background-color: black;}
+nav{
+    background-color: black;
+}
 
-.logoContainer{height: 30px;
-    width: 30px;}
+.logoContainer{
+    height: 30px;
+    width: 30px;
+}
     
-.logo{height: 30px;
-    width: 30px;}
+.logo{
+    height: 30px;
+    width: 30px;
+}
     
-footer{background-image: url(https://media.istockphoto.com/id/512624640/pt/vetorial/pizza-sem-costura-padr%C3%A3o-de-fundo-escuro.jpg?s=612x612&w=0&k=20&c=rXGhI5jmfiGWpT7QygV7vTg8JHXdH1geuyfB6UCSskA=);
-    color: gold;}
+footer{
+    background-image: url(https://media.istockphoto.com/id/512624640/pt/vetorial/pizza-sem-costura-padr%C3%A3o-de-fundo-escuro.jpg?s=612x612&w=0&k=20&c=rXGhI5jmfiGWpT7QygV7vTg8JHXdH1geuyfB6UCSskA=);
+    color: gold;
+}
 
 .imgAjustada{
     box-sizing: border-box;
     width: 800px;
     border: solid #e6e934 8px;
-    padding: 3px;}  
+    padding: 3px;
+}  
 
-.imgAjustada2{height: 250px;
-    object-fit: cover;}    
+.imgAjustada2{
+    height: 250px;
+    object-fit: cover;
+}    
 
-.card-body{background-image: url(https://static.vecteezy.com/system/resources/previews/005/618/237/original/pizza-seamless-pattern-pizza-slices-with-mozzarella-salami-herbs-mushrooms-and-pepper-doodle-fast-food-background-for-wrapping-paper-textile-wallpaper-restaurant-or-cafe-illustration-vector.jpg);
+.card-body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/005/618/237/original/pizza-seamless-pattern-pizza-slices-with-mozzarella-salami-herbs-mushrooms-and-pepper-doodle-fast-food-background-for-wrapping-paper-textile-wallpaper-restaurant-or-cafe-illustration-vector.jpg);
 }
 
-h5{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
-.card-text{font-style: italic;}
+.card-text{
+    font-style: italic;
+}
 
-.graciosoja{box-sizing: border-box;
-height: auto;
-width: 600px;}
+.graciosoja{
+    box-sizing: border-box;
+    height: auto;
+    width: 600px;
+}
 
 @media only screen and (max-width: 768px){
     .celEstirado{  position: relative;
@@ -42,5 +63,5 @@ width: 600px;}
         width: 100%;
         height: auto;}
 }
-        
+
 
