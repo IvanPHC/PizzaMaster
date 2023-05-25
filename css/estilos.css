@@ -19,8 +19,11 @@ footer{background-image: url(https://media.istockphoto.com/id/512624640/pt/vetor
     box-sizing: border-box;
     width: 800px;
     border: solid #e6e934 8px;
-    padding: 3px;}
-    
+    padding: 3px;}  
+
+.imgAjustada2{height: 250px;
+    object-fit: cover;}    
+
 .card-body{background-image: url(https://static.vecteezy.com/system/resources/previews/005/618/237/original/pizza-seamless-pattern-pizza-slices-with-mozzarella-salami-herbs-mushrooms-and-pepper-doodle-fast-food-background-for-wrapping-paper-textile-wallpaper-restaurant-or-cafe-illustration-vector.jpg);
 }
 
