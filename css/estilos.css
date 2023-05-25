@@ -31,9 +31,9 @@ h5{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida S
 
 .card-text{font-style: italic;}
 
-.graciosoja{
-height: 600px;
-width: 1000px;}
+.graciosoja{box-sizing: border-box;
+height: auto;
+width: 600px;}
 
 @media only screen and (max-width: 768px){
     .celEstirado{  position: relative;
